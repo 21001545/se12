@@ -1,0 +1,25 @@
+<svg id="friend_background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="617" height="397" viewBox="0 0 617 397">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_850" data-name="사각형 850" width="617" height="397" transform="translate(779.314 23)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5e1a93"/>
+      <stop offset="1" stop-color="#280673"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.272" y1="0.32" x2="0.833" y2="0.63" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="마스크_그룹_66" data-name="마스크 그룹 66" transform="translate(-779.314 -23)" clip-path="url(#clip-path)">
+    <g id="사각형_851" data-name="사각형 851" transform="translate(779.314 23)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="617" height="401" stroke="none"/>
+      <rect x="0.5" y="0.5" width="616" height="400" fill="none"/>
+    </g>
+    <path id="path" d="M116.235,208.565c75.9-2.477,79.138-60.027,154.874-60.738s93.077,73.624,151.122,73.975,115.06-106.114,203.21-110.374,128.661,54.96,226.688,54.362S1015,78.568,1126.641,73.842s131.318,39.6,227.635,37.586S1514.359,10.365,1681.832.9s194.58,58.407,365.114,59.469,91.817,59.793,255.19,62.042,411.167,227.8,411.167,227.8H0Z" transform="translate(2932.303 379.216) rotate(180)" opacity="0.5" fill="url(#linear-gradient)"/>
+    <path id="path-2" data-name="path" d="M116.235,208.565c75.9-2.477,79.138-60.027,154.874-60.738s93.077,73.624,151.122,73.975,115.06-106.114,203.21-110.374,128.661,54.96,226.688,54.362S1015,78.568,1126.641,73.842s131.318,39.6,227.635,37.586S1514.359,10.365,1681.832.9s194.58,58.407,365.114,59.469,91.817,59.793,255.19,62.042,411.167,227.8,411.167,227.8H0Z" transform="translate(2932.303 373.216) rotate(180)" opacity="0.949" fill="url(#linear-gradient)"/>
+    <path id="path-3" data-name="path" d="M116.235,208.565c75.9-2.477,79.138-60.027,154.874-60.738s93.077,73.624,151.122,73.975,115.06-106.114,203.21-110.374,128.661,54.96,226.688,54.362S1015,78.568,1126.641,73.842s131.318,39.6,227.635,37.586S1514.359,10.365,1681.832.9s194.58,58.407,365.114,59.469,91.817,59.793,255.19,62.042,411.167,227.8,411.167,227.8H0Z" transform="translate(2713.303 350.216) rotate(180)" fill="#0000d1" opacity="0.17"/>
+    <path id="패스_224" data-name="패스 224" d="M15495.705,7475.488s46.143,58.012,184.58,53.334,126.348,25.731,126.348,25.731v-72.518Z" transform="translate(-14494.686 -7456)" opacity="0.09" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

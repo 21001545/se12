@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LifeFesta_FestaSkyBox
+  m_Shader: {fileID: 4800000, guid: 48dc37ae965d0f4408a37381ce05676c, type: 3}
+  m_ShaderKeywords: LAYER_0_USE_LINEAR_GRADIENT LAYER_10_USE_LINEAR_GRADIENT LAYER_1_USE_LINEAR_GRADIENT
+    LAYER_2_LINEAR_LIGHT_BLEND LAYER_2_USE_LINEAR_GRADIENT LAYER_4_USE_LINEAR_GRADIENT
+    LAYER_5_USE_LINEAR_GRADIENT LAYER_6_USE_LINEAR_GRADIENT LAYER_7_USE_LINEAR_GRADIENT
+    LAYER_8_USE_LINEAR_GRADIENT LAYER_9_USE_LINEAR_GRADIENT
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _Layer0_Alpha: 1
+    - _Layer10_Alpha: 0
+    - _Layer1_Alpha: 0.803
+    - _Layer2_Alpha: 1
+    - _Layer3_Alpha: 0.398
+    - _Layer4_Alpha: 0
+    - _Layer5_Alpha: 0
+    - _Layer6_Alpha: 0
+    - _Layer7_Alpha: 0
+    - _Layer8_Alpha: 0
+    - _Layer9_Alpha: 0
+    m_Colors:
+    - _Layer0_EndColor: {r: 0.73333335, g: 0.5882353, b: 0.81568635, a: 1}
+    - _Layer0_EndPosition: {r: 0.5, g: -1, b: 0, a: 0}
+    - _Layer0_StartColor: {r: 0.058823533, g: 0.21568629, b: 0.56078434, a: 1}
+    - _Layer0_StartPosition: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _Layer10_EndColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Layer10_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer10_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer10_StartPosition: {r: 0, g: 0.5, b: 0, a: 0}
+    - _Layer1_EndColor: {r: 0.73333335, g: 0.5882353, b: 0.81568635, a: 0}
+    - _Layer1_EndPosition: {r: 0, g: 0.5, b: 0, a: 0}
+    - _Layer1_StartColor: {r: 0.73333335, g: 0.5882353, b: 0.81568635, a: 1}
+    - _Layer1_StartPosition: {r: 0, g: -1, b: 0, a: 0}
+    - _Layer2_EndColor: {r: 0.050980397, g: 0.20784315, b: 0.5529412, a: 0}
+    - _Layer2_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer2_StartColor: {r: 0.050980397, g: 0.20784315, b: 0.5529412, a: 1}
+    - _Layer2_StartPosition: {r: 0, g: 0.5, b: 0, a: 0}
+    - _Layer3_EndColor: {r: 0.25490198, g: 0.4901961, b: 0.8117648, a: 0}
+    - _Layer3_EndPosition: {r: 0, g: 0.5, b: 0, a: 0}
+    - _Layer3_StartColor: {r: 0.25490198, g: 0.4901961, b: 0.8117648, a: 1}
+    - _Layer3_StartPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer4_EndColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer4_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer4_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer4_StartPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer5_EndColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer5_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer5_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer5_StartPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer6_EndColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer6_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer6_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer6_StartPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer7_EndColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer7_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer7_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer7_StartPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer8_EndColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer8_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer8_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer8_StartPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer9_EndColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer9_EndPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _Layer9_StartColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Layer9_StartPosition: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

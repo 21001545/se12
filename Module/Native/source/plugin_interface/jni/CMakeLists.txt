@@ -1,0 +1,16 @@
+set(PLUGIN_INTERFACE_JNI_HEADER
+	plugin_interface/jni/PluginInterface_JNI.h
+	plugin_interface/jni/JNIHelper.h
+	plugin_interface/jni/JNIScopedContext.h
+	plugin_interface/jni/include/com_lifefesta_drun_server_module_nativemodule_NativeBSDiff.h
+	plugin_interface/jni/include/com_lifefesta_drun_server_module_nativemodule_NativeMain.h
+	plugin_interface/jni/include/com_lifefesta_drun_server_module_nativemodule_NativeLandBuilder.h
+	)
+
+set(PLUGIN_INTERFACE_JNI_SOURCE
+	plugin_interface/jni/JNIHelper.cpp
+	plugin_interface/jni/JNIScopedContext.cpp
+	plugin_interface/jni/PluginInterface_JNI.cpp
+	plugin_interface/jni/PluginInterface_JNI_BSDiff.cpp
+	plugin_interface/jni/PluginInterface_JNI_LandBuilder.cpp
+	)

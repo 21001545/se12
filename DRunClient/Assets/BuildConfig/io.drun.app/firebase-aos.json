@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "420293155058",
+    "project_id": "d-run-52855",
+    "storage_bucket": "d-run-52855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420293155058:android:25e123bafe910a51d5586b",
+        "android_client_info": {
+          "package_name": "io.drun.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420293155058-6smdrtikm78motknkiesqqen5k42eoj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX36CEcI8NRQvdlnl-uBcCz5AeUvqvLGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420293155058-6smdrtikm78motknkiesqqen5k42eoj4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420293155058-0vuefc1djtcjc1girloe4cjhhrugkpk6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.drun.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

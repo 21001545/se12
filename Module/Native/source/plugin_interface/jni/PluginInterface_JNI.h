@@ -1,0 +1,8 @@
+#ifndef PluginInterfcae_JNI_H
+#define PluginInterfcae_JNI_H
+
+#include "include/com_lifefesta_drun_server_module_nativemodule_NativeMain.h"
+#include "include/com_lifefesta_drun_server_module_nativemodule_NativeBSDiff.h"
+#include "include/com_lifefesta_drun_server_module_nativemodule_NativeLandBuilder.h"
+
+#endif

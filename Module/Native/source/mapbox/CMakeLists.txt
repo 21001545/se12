@@ -1,0 +1,19 @@
+set(MAPBOX_HEADER	
+	mapbox/MapBoxContextCache.h
+    mapbox/MapBoxContext.h
+    mapbox/MapBoxMeshBuilder.h
+    mapbox/MapBoxLineBoundClipper.h
+    mapbox/PointCache.h
+    mapbox/MapBoxVertex.h
+    mapbox/MapBoxEdge.h
+    mapbox/MapBoxPolygonBuilder.h
+    mapbox/earcut.hpp
+    )
+
+set(MAPBOX_SOURCE
+    mapbox/MapBoxContextCache.cpp
+    mapbox/MapBoxContext.cpp
+    mapbox/MapBoxMeshBuilder.cpp
+    mapbox/MapBoxLineBoundClipper.cpp
+    mapbox/MapBoxPolygonBuilder.cpp
+	)

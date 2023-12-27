@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="641" height="1291" viewBox="0 0 641 1291">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.363" cy="0.343" r="0.414" gradientTransform="matrix(0.658, 0.753, -0.682, 0.596, 0.385, -0.299)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc881"/>
+      <stop offset="1" stop-color="#ffac5e"/>
+    </radialGradient>
+    <filter id="타원_367" x="0" y="0" width="641" height="1291" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#타원_367)">
+    <ellipse id="타원_367-2" data-name="타원 367" cx="311.5" cy="636.5" rx="311.5" ry="636.5" transform="translate(9 6)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

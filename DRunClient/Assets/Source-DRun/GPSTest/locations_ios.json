@@ -1,0 +1,3719 @@
+[
+        {
+          "event_time": "2023-01-18T10:55:54.9990000",
+          "longitude": 126.751953,
+          "latitude": 37.69814,
+          "altitude": 22.253999,
+          "accuracy": 19.082131
+        },
+        {
+          "event_time": "2023-01-18T10:55:53.9990000",
+          "longitude": 126.751954,
+          "latitude": 37.698143,
+          "altitude": 22.239963,
+          "accuracy": 19.373371
+        },
+        {
+          "event_time": "2023-01-18T10:55:52.9990000",
+          "longitude": 126.75195,
+          "latitude": 37.698142,
+          "altitude": 22.226193,
+          "accuracy": 19.32529
+        },
+        {
+          "event_time": "2023-01-18T10:55:51.9990000",
+          "longitude": 126.751946,
+          "latitude": 37.69814,
+          "altitude": 22.225235,
+          "accuracy": 19.124772
+        },
+        {
+          "event_time": "2023-01-18T10:55:50.9990000",
+          "longitude": 126.751946,
+          "latitude": 37.69814,
+          "altitude": 22.224098,
+          "accuracy": 19.119004
+        },
+        {
+          "event_time": "2023-01-18T10:55:49.9990000",
+          "longitude": 126.751946,
+          "latitude": 37.69814,
+          "altitude": 22.221215,
+          "accuracy": 19.121922
+        },
+        {
+          "event_time": "2023-01-18T10:55:48.9990000",
+          "longitude": 126.751945,
+          "latitude": 37.698139,
+          "altitude": 22.220398,
+          "accuracy": 19.011969
+        },
+        {
+          "event_time": "2023-01-18T10:55:47.9990000",
+          "longitude": 126.751945,
+          "latitude": 37.698139,
+          "altitude": 22.220531,
+          "accuracy": 19.007816
+        },
+        {
+          "event_time": "2023-01-18T10:55:46.9990000",
+          "longitude": 126.751945,
+          "latitude": 37.698139,
+          "altitude": 22.220394,
+          "accuracy": 19.055248
+        },
+        {
+          "event_time": "2023-01-18T10:55:45.9990000",
+          "longitude": 126.751945,
+          "latitude": 37.69814,
+          "altitude": 22.221766,
+          "accuracy": 19.117501
+        },
+        {
+          "event_time": "2023-01-18T10:55:44.9990000",
+          "longitude": 126.751945,
+          "latitude": 37.69814,
+          "altitude": 22.226006,
+          "accuracy": 19.180688
+        },
+        {
+          "event_time": "2023-01-18T10:55:43.9990000",
+          "longitude": 126.751946,
+          "latitude": 37.69814,
+          "altitude": 22.234219,
+          "accuracy": 19.105208
+        },
+        {
+          "event_time": "2023-01-18T10:55:42.9990000",
+          "longitude": 126.751948,
+          "latitude": 37.69814,
+          "altitude": 22.24689,
+          "accuracy": 19.127365
+        },
+        {
+          "event_time": "2023-01-18T10:55:41.9990000",
+          "longitude": 126.751951,
+          "latitude": 37.698137,
+          "altitude": 22.261954,
+          "accuracy": 18.80026
+        },
+        {
+          "event_time": "2023-01-18T10:55:40.9990000",
+          "longitude": 126.751956,
+          "latitude": 37.69813,
+          "altitude": 22.278015,
+          "accuracy": 17.996239
+        },
+        {
+          "event_time": "2023-01-18T10:55:39.9990000",
+          "longitude": 126.75196,
+          "latitude": 37.698133,
+          "altitude": 22.300428,
+          "accuracy": 18.435703
+        },
+        {
+          "event_time": "2023-01-18T10:55:38.9990000",
+          "longitude": 126.751966,
+          "latitude": 37.698146,
+          "altitude": 22.339477,
+          "accuracy": 18.576198
+        },
+        {
+          "event_time": "2023-01-18T10:55:37.9990000",
+          "longitude": 126.751976,
+          "latitude": 37.698155,
+          "altitude": 22.376899,
+          "accuracy": 18.123599
+        },
+        {
+          "event_time": "2023-01-18T10:55:36.9990000",
+          "longitude": 126.751987,
+          "latitude": 37.698164,
+          "altitude": 22.421491,
+          "accuracy": 18.526409
+        },
+        {
+          "event_time": "2023-01-18T10:55:35.9990000",
+          "longitude": 126.751999,
+          "latitude": 37.698174,
+          "altitude": 22.462943,
+          "accuracy": 19.298058
+        },
+        {
+          "event_time": "2023-01-18T10:55:34.9990000",
+          "longitude": 126.752011,
+          "latitude": 37.698185,
+          "altitude": 22.499949,
+          "accuracy": 18.628308
+        },
+        {
+          "event_time": "2023-01-18T10:55:33.9990000",
+          "longitude": 126.752022,
+          "latitude": 37.698198,
+          "altitude": 22.520054,
+          "accuracy": 19.072607
+        },
+        {
+          "event_time": "2023-01-18T10:55:32.9990000",
+          "longitude": 126.752027,
+          "latitude": 37.698207,
+          "altitude": 22.544532,
+          "accuracy": 19.939153
+        },
+        {
+          "event_time": "2023-01-18T10:55:31.9990000",
+          "longitude": 126.752034,
+          "latitude": 37.698221,
+          "altitude": 22.556269,
+          "accuracy": 20.393459
+        },
+        {
+          "event_time": "2023-01-18T10:55:30.9990000",
+          "longitude": 126.752037,
+          "latitude": 37.698234,
+          "altitude": 22.580696,
+          "accuracy": 19.70008
+        },
+        {
+          "event_time": "2023-01-18T10:55:29.9990000",
+          "longitude": 126.752043,
+          "latitude": 37.698248,
+          "altitude": 22.619629,
+          "accuracy": 18.510262
+        },
+        {
+          "event_time": "2023-01-18T10:55:28.9990000",
+          "longitude": 126.752055,
+          "latitude": 37.698264,
+          "altitude": 22.645032,
+          "accuracy": 17.803927
+        },
+        {
+          "event_time": "2023-01-18T10:55:27.9990000",
+          "longitude": 126.752062,
+          "latitude": 37.698279,
+          "altitude": 22.658812,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:26.9990000",
+          "longitude": 126.752067,
+          "latitude": 37.698286,
+          "altitude": 22.651452,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:25.9990000",
+          "longitude": 126.752065,
+          "latitude": 37.698299,
+          "altitude": 22.625918,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:24.9990000",
+          "longitude": 126.752058,
+          "latitude": 37.698312,
+          "altitude": 22.605203,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:23.9990000",
+          "longitude": 126.752052,
+          "latitude": 37.698326,
+          "altitude": 22.595735,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:22.9990000",
+          "longitude": 126.752049,
+          "latitude": 37.698344,
+          "altitude": 22.574663,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:21.9990000",
+          "longitude": 126.752043,
+          "latitude": 37.698364,
+          "altitude": 22.572687,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:20.9990000",
+          "longitude": 126.752043,
+          "latitude": 37.698378,
+          "altitude": 22.564158,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:19.9990000",
+          "longitude": 126.75204,
+          "latitude": 37.698393,
+          "altitude": 22.570841,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:18.9990000",
+          "longitude": 126.752042,
+          "latitude": 37.698407,
+          "altitude": 22.572094,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:17.9990000",
+          "longitude": 126.752042,
+          "latitude": 37.698421,
+          "altitude": 22.574295,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:16.9990000",
+          "longitude": 126.752043,
+          "latitude": 37.698434,
+          "altitude": 22.571718,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:15.9990000",
+          "longitude": 126.752043,
+          "latitude": 37.698447,
+          "altitude": 22.55944,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:14.9990000",
+          "longitude": 126.752039,
+          "latitude": 37.698452,
+          "altitude": 22.557616,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:13.9990000",
+          "longitude": 126.752038,
+          "latitude": 37.698462,
+          "altitude": 22.558667,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:12.9990000",
+          "longitude": 126.752039,
+          "latitude": 37.698477,
+          "altitude": 22.555928,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:11.9990000",
+          "longitude": 126.752038,
+          "latitude": 37.698486,
+          "altitude": 22.546183,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:10.9990000",
+          "longitude": 126.752035,
+          "latitude": 37.698493,
+          "altitude": 22.538034,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:09.9990000",
+          "longitude": 126.752032,
+          "latitude": 37.698495,
+          "altitude": 22.549617,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:08.9990000",
+          "longitude": 126.752036,
+          "latitude": 37.698505,
+          "altitude": 22.56516,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:07.9990000",
+          "longitude": 126.752041,
+          "latitude": 37.698521,
+          "altitude": 22.559231,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:06.9990000",
+          "longitude": 126.752039,
+          "latitude": 37.698523,
+          "altitude": 22.553537,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:05.9990000",
+          "longitude": 126.752038,
+          "latitude": 37.698529,
+          "altitude": 22.521178,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:04.9990000",
+          "longitude": 126.752029,
+          "latitude": 37.698527,
+          "altitude": 22.497447,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:03.9990000",
+          "longitude": 126.752022,
+          "latitude": 37.698525,
+          "altitude": 22.472791,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:02.9990000",
+          "longitude": 126.752014,
+          "latitude": 37.698523,
+          "altitude": 22.481489,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:01.9990000",
+          "longitude": 126.752016,
+          "latitude": 37.698527,
+          "altitude": 22.508902,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:55:00.9990000",
+          "longitude": 126.752025,
+          "latitude": 37.698535,
+          "altitude": 22.501916,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:59.9990000",
+          "longitude": 126.752023,
+          "latitude": 37.698541,
+          "altitude": 22.506594,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:58.9990000",
+          "longitude": 126.752024,
+          "latitude": 37.698543,
+          "altitude": 22.509391,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:57.9990000",
+          "longitude": 126.752025,
+          "latitude": 37.698539,
+          "altitude": 22.509282,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:56.9990000",
+          "longitude": 126.752025,
+          "latitude": 37.698541,
+          "altitude": 22.489203,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:55.9990000",
+          "longitude": 126.75202,
+          "latitude": 37.698544,
+          "altitude": 22.478203,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:54.9990000",
+          "longitude": 126.752017,
+          "latitude": 37.69855,
+          "altitude": 22.457812,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:53.9990000",
+          "longitude": 126.752011,
+          "latitude": 37.698552,
+          "altitude": 22.432736,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:52.9990000",
+          "longitude": 126.752004,
+          "latitude": 37.698552,
+          "altitude": 22.40431,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:51.9990000",
+          "longitude": 126.751997,
+          "latitude": 37.698549,
+          "altitude": 22.365186,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:50.9990000",
+          "longitude": 126.751986,
+          "latitude": 37.698545,
+          "altitude": 22.327291,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:49.9990000",
+          "longitude": 126.751976,
+          "latitude": 37.698543,
+          "altitude": 22.282398,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:48.9990000",
+          "longitude": 126.751963,
+          "latitude": 37.69854,
+          "altitude": 22.236113,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:47.9990000",
+          "longitude": 126.751949,
+          "latitude": 37.698536,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:46.9990000",
+          "longitude": 126.75193,
+          "latitude": 37.698534,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:45.9990000",
+          "longitude": 126.751908,
+          "latitude": 37.698532,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:44.9990000",
+          "longitude": 126.75189,
+          "latitude": 37.698531,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:43.9990000",
+          "longitude": 126.751873,
+          "latitude": 37.698524,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:42.9990000",
+          "longitude": 126.751856,
+          "latitude": 37.698514,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:41.9990000",
+          "longitude": 126.751838,
+          "latitude": 37.698501,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:40.9990000",
+          "longitude": 126.751821,
+          "latitude": 37.69849,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:39.9990000",
+          "longitude": 126.751808,
+          "latitude": 37.698474,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:38.9990000",
+          "longitude": 126.751792,
+          "latitude": 37.698463,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:37.9990000",
+          "longitude": 126.751771,
+          "latitude": 37.698452,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:36.9990000",
+          "longitude": 126.751751,
+          "latitude": 37.698443,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:35.9990000",
+          "longitude": 126.751731,
+          "latitude": 37.698435,
+          "altitude": 22.219998,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:34.9990000",
+          "longitude": 126.75171,
+          "latitude": 37.698426,
+          "altitude": 22.21997,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:34.0000000",
+          "longitude": 126.751693,
+          "latitude": 37.698413,
+          "altitude": 22.219691,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:33.0000000",
+          "longitude": 126.751674,
+          "latitude": 37.698405,
+          "altitude": 22.216903,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:32.0000000",
+          "longitude": 126.751665,
+          "latitude": 37.698402,
+          "altitude": 22.205121,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:31.0000000",
+          "longitude": 126.75165,
+          "latitude": 37.698396,
+          "altitude": 22.190368,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:30.0000000",
+          "longitude": 126.751625,
+          "latitude": 37.698387,
+          "altitude": 22.187034,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:29.0000000",
+          "longitude": 126.751611,
+          "latitude": 37.698379,
+          "altitude": 22.184936,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:28.0000000",
+          "longitude": 126.751594,
+          "latitude": 37.69837,
+          "altitude": 22.183073,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:27.0000000",
+          "longitude": 126.751571,
+          "latitude": 37.698364,
+          "altitude": 22.191505,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:26.0000000",
+          "longitude": 126.751557,
+          "latitude": 37.698354,
+          "altitude": 22.197821,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:25.0000000",
+          "longitude": 126.751529,
+          "latitude": 37.698347,
+          "altitude": 22.209035,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:24.0000000",
+          "longitude": 126.7515,
+          "latitude": 37.698339,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:23.0000000",
+          "longitude": 126.751481,
+          "latitude": 37.698332,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:22.0000000",
+          "longitude": 126.751466,
+          "latitude": 37.698325,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:21.0000000",
+          "longitude": 126.751458,
+          "latitude": 37.698322,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:20.0000000",
+          "longitude": 126.751446,
+          "latitude": 37.698317,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:19.0000000",
+          "longitude": 126.751438,
+          "latitude": 37.698309,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:18.0000000",
+          "longitude": 126.751433,
+          "latitude": 37.698299,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:17.0000000",
+          "longitude": 126.751436,
+          "latitude": 37.698286,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:16.0000000",
+          "longitude": 126.751429,
+          "latitude": 37.698276,
+          "altitude": 22.219997,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:15.0000000",
+          "longitude": 126.751431,
+          "latitude": 37.69826,
+          "altitude": 22.219959,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:14.0000000",
+          "longitude": 126.751429,
+          "latitude": 37.698247,
+          "altitude": 22.219577,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:13.0000000",
+          "longitude": 126.751402,
+          "latitude": 37.69823,
+          "altitude": 22.215758,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:12.0000000",
+          "longitude": 126.751394,
+          "latitude": 37.698218,
+          "altitude": 22.177567,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:11.0000000",
+          "longitude": 126.751377,
+          "latitude": 37.698204,
+          "altitude": 22.17774,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:10.0000000",
+          "longitude": 126.751377,
+          "latitude": 37.698188,
+          "altitude": 22.185245,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:54:09.0000000",
+          "longitude": 126.751379,
+          "latitude": 37.698168,
+          "altitude": 22.195951,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:08.0000000",
+          "longitude": 126.751381,
+          "latitude": 37.698146,
+          "altitude": 22.219996,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:07.0000000",
+          "longitude": 126.751392,
+          "latitude": 37.69813,
+          "altitude": 22.21995,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:06.0000000",
+          "longitude": 126.751395,
+          "latitude": 37.698107,
+          "altitude": 22.219486,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:05.0000000",
+          "longitude": 126.751396,
+          "latitude": 37.698085,
+          "altitude": 22.214848,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:04.0000000",
+          "longitude": 126.751413,
+          "latitude": 37.698059,
+          "altitude": 22.168468,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:03.0000000",
+          "longitude": 126.751436,
+          "latitude": 37.69804,
+          "altitude": 22.121673,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:02.0000000",
+          "longitude": 126.751453,
+          "latitude": 37.698022,
+          "altitude": 22.06303,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:01.0000000",
+          "longitude": 126.751457,
+          "latitude": 37.697999,
+          "altitude": 22.025193,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:54:00.0000000",
+          "longitude": 126.751462,
+          "latitude": 37.697983,
+          "altitude": 21.993135,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:59.0000000",
+          "longitude": 126.751456,
+          "latitude": 37.697974,
+          "altitude": 21.965162,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:58.0000000",
+          "longitude": 126.751468,
+          "latitude": 37.697958,
+          "altitude": 21.933594,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:57.0000000",
+          "longitude": 126.751476,
+          "latitude": 37.69794,
+          "altitude": 21.931366,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:56.0000000",
+          "longitude": 126.751486,
+          "latitude": 37.697932,
+          "altitude": 21.93415,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:55.0000000",
+          "longitude": 126.751506,
+          "latitude": 37.697916,
+          "altitude": 21.967311,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:54.0000000",
+          "longitude": 126.751549,
+          "latitude": 37.697888,
+          "altitude": 21.993428,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:53.0000000",
+          "longitude": 126.751562,
+          "latitude": 37.697887,
+          "altitude": 22.005449,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:52.0000000",
+          "longitude": 126.751572,
+          "latitude": 37.69788,
+          "altitude": 22.013497,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:51.0000000",
+          "longitude": 126.751583,
+          "latitude": 37.697865,
+          "altitude": 21.998984,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:50.0000000",
+          "longitude": 126.751582,
+          "latitude": 37.697851,
+          "altitude": 22.022802,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:49.0000000",
+          "longitude": 126.751589,
+          "latitude": 37.697858,
+          "altitude": 22.029577,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:48.0000000",
+          "longitude": 126.751594,
+          "latitude": 37.697855,
+          "altitude": 22.012868,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:47.0000000",
+          "longitude": 126.751595,
+          "latitude": 37.697832,
+          "altitude": 22.023936,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:46.0000000",
+          "longitude": 126.751604,
+          "latitude": 37.69781,
+          "altitude": 22.041705,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:45.0000000",
+          "longitude": 126.751612,
+          "latitude": 37.697801,
+          "altitude": 22.065833,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:44.0000000",
+          "longitude": 126.751621,
+          "latitude": 37.697793,
+          "altitude": 22.090954,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:43.0000000",
+          "longitude": 126.751629,
+          "latitude": 37.697788,
+          "altitude": 22.119591,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:42.0000000",
+          "longitude": 126.751637,
+          "latitude": 37.697782,
+          "altitude": 22.157904,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:41.0000000",
+          "longitude": 126.751654,
+          "latitude": 37.697772,
+          "altitude": 22.198088,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:40.0000000",
+          "longitude": 126.75167,
+          "latitude": 37.697772,
+          "altitude": 22.189319,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:39.0000000",
+          "longitude": 126.751681,
+          "latitude": 37.697769,
+          "altitude": 22.179667,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:38.0000000",
+          "longitude": 126.751697,
+          "latitude": 37.697765,
+          "altitude": 22.172239,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:37.0000000",
+          "longitude": 126.751709,
+          "latitude": 37.697763,
+          "altitude": 22.160273,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:36.0000000",
+          "longitude": 126.75173,
+          "latitude": 37.697757,
+          "altitude": 22.154388,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:35.0000000",
+          "longitude": 126.751744,
+          "latitude": 37.697752,
+          "altitude": 22.156407,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:34.0000000",
+          "longitude": 126.75175,
+          "latitude": 37.697752,
+          "altitude": 22.162967,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:33.0000000",
+          "longitude": 126.751766,
+          "latitude": 37.697753,
+          "altitude": 22.168485,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:32.0000000",
+          "longitude": 126.751774,
+          "latitude": 37.697754,
+          "altitude": 22.179859,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:31.0000000",
+          "longitude": 126.751781,
+          "latitude": 37.697758,
+          "altitude": 22.199294,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:30.0000000",
+          "longitude": 126.751781,
+          "latitude": 37.697767,
+          "altitude": 22.219167,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:29.0000000",
+          "longitude": 126.751781,
+          "latitude": 37.697777,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:28.0000000",
+          "longitude": 126.751787,
+          "latitude": 37.69778,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:27.0000000",
+          "longitude": 126.751785,
+          "latitude": 37.697788,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:26.0000000",
+          "longitude": 126.751789,
+          "latitude": 37.69779,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:25.0000000",
+          "longitude": 126.751792,
+          "latitude": 37.697797,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:24.0000000",
+          "longitude": 126.751798,
+          "latitude": 37.697802,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:23.0000000",
+          "longitude": 126.751811,
+          "latitude": 37.697803,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:22.0000000",
+          "longitude": 126.751831,
+          "latitude": 37.697798,
+          "altitude": 22.220001,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:21.0000000",
+          "longitude": 126.751846,
+          "latitude": 37.697794,
+          "altitude": 22.219999,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:19.9990000",
+          "longitude": 126.751861,
+          "latitude": 37.697787,
+          "altitude": 22.219979,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:18.9990000",
+          "longitude": 126.751869,
+          "latitude": 37.697783,
+          "altitude": 22.219777,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:17.9990000",
+          "longitude": 126.751879,
+          "latitude": 37.69778,
+          "altitude": 22.217764,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:16.9990000",
+          "longitude": 126.751889,
+          "latitude": 37.697775,
+          "altitude": 22.213039,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:15.9990000",
+          "longitude": 126.751894,
+          "latitude": 37.697768,
+          "altitude": 22.206893,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:14.9990000",
+          "longitude": 126.7519,
+          "latitude": 37.697756,
+          "altitude": 22.202968,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:13.9990000",
+          "longitude": 126.751905,
+          "latitude": 37.697745,
+          "altitude": 22.201079,
+          "accuracy": 25
+        },
+        {
+          "event_time": "2023-01-18T10:53:12.9990000",
+          "longitude": 126.751908,
+          "latitude": 37.697736,
+          "altitude": 22.205218,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:11.9990000",
+          "longitude": 126.751918,
+          "latitude": 37.697733,
+          "altitude": 22.209631,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:10.9990000",
+          "longitude": 126.751929,
+          "latitude": 37.697725,
+          "altitude": 22.21274,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:09.9990000",
+          "longitude": 126.751934,
+          "latitude": 37.697718,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:08.9990000",
+          "longitude": 126.751946,
+          "latitude": 37.697714,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:07.9990000",
+          "longitude": 126.751959,
+          "latitude": 37.697704,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:06.9990000",
+          "longitude": 126.75197,
+          "latitude": 37.697691,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:05.9990000",
+          "longitude": 126.751985,
+          "latitude": 37.697672,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:04.9990000",
+          "longitude": 126.75199,
+          "latitude": 37.697661,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:53:03.9990000",
+          "longitude": 126.751996,
+          "latitude": 37.697648,
+          "altitude": 22.220001,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:53:02.9990000",
+          "longitude": 126.752011,
+          "latitude": 37.697641,
+          "altitude": 22.220001,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:53:01.9990000",
+          "longitude": 126.752024,
+          "latitude": 37.697635,
+          "altitude": 22.220001,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:53:00.9990000",
+          "longitude": 126.752023,
+          "latitude": 37.697622,
+          "altitude": 22.220001,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:52:59.9990000",
+          "longitude": 126.752037,
+          "latitude": 37.697606,
+          "altitude": 22.220001,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:52:58.9990000",
+          "longitude": 126.752044,
+          "latitude": 37.697587,
+          "altitude": 22.22,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:52:57.9990000",
+          "longitude": 126.752044,
+          "latitude": 37.697568,
+          "altitude": 22.219988,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:52:56.9990000",
+          "longitude": 126.752045,
+          "latitude": 37.697547,
+          "altitude": 22.219869,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:55.9990000",
+          "longitude": 126.752045,
+          "latitude": 37.697529,
+          "altitude": 22.218678,
+          "accuracy": 19.699923
+        },
+        {
+          "event_time": "2023-01-18T10:52:54.9990000",
+          "longitude": 126.75205,
+          "latitude": 37.697511,
+          "altitude": 22.206767,
+          "accuracy": 19.558541
+        },
+        {
+          "event_time": "2023-01-18T10:52:53.9990000",
+          "longitude": 126.752058,
+          "latitude": 37.697495,
+          "altitude": 22.177228,
+          "accuracy": 20.692821
+        },
+        {
+          "event_time": "2023-01-18T10:52:52.9990000",
+          "longitude": 126.752071,
+          "latitude": 37.697479,
+          "altitude": 22.157595,
+          "accuracy": 25.756468
+        },
+        {
+          "event_time": "2023-01-18T10:52:51.9990000",
+          "longitude": 126.752081,
+          "latitude": 37.697466,
+          "altitude": 22.149378,
+          "accuracy": 26.15787
+        },
+        {
+          "event_time": "2023-01-18T10:52:50.9990000",
+          "longitude": 126.752097,
+          "latitude": 37.697457,
+          "altitude": 22.137552,
+          "accuracy": 21.316296
+        },
+        {
+          "event_time": "2023-01-18T10:52:49.9990000",
+          "longitude": 126.752107,
+          "latitude": 37.697446,
+          "altitude": 22.12387,
+          "accuracy": 20.264947
+        },
+        {
+          "event_time": "2023-01-18T10:52:48.9990000",
+          "longitude": 126.752117,
+          "latitude": 37.697431,
+          "altitude": 22.113901,
+          "accuracy": 19.080162
+        },
+        {
+          "event_time": "2023-01-18T10:52:47.9990000",
+          "longitude": 126.752126,
+          "latitude": 37.697415,
+          "altitude": 22.110386,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:47.0000000",
+          "longitude": 126.752133,
+          "latitude": 37.697404,
+          "altitude": 22.117901,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:46.0000000",
+          "longitude": 126.752148,
+          "latitude": 37.697393,
+          "altitude": 22.126488,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:45.0000000",
+          "longitude": 126.752154,
+          "latitude": 37.697392,
+          "altitude": 22.140468,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:44.0000000",
+          "longitude": 126.752165,
+          "latitude": 37.697391,
+          "altitude": 22.15128,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:43.0000000",
+          "longitude": 126.752174,
+          "latitude": 37.697385,
+          "altitude": 22.172672,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:42.0000000",
+          "longitude": 126.75219,
+          "latitude": 37.697381,
+          "altitude": 22.192751,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:41.0000000",
+          "longitude": 126.752204,
+          "latitude": 37.697377,
+          "altitude": 22.205749,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:40.0000000",
+          "longitude": 126.752213,
+          "latitude": 37.69737,
+          "altitude": 22.21113,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:39.0000000",
+          "longitude": 126.752217,
+          "latitude": 37.69736,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:38.0000000",
+          "longitude": 126.752229,
+          "latitude": 37.697347,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:37.0000000",
+          "longitude": 126.752245,
+          "latitude": 37.697338,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:36.0000000",
+          "longitude": 126.752264,
+          "latitude": 37.697332,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:35.0000000",
+          "longitude": 126.752281,
+          "latitude": 37.697326,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:34.0000000",
+          "longitude": 126.7523,
+          "latitude": 37.697324,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:33.0000000",
+          "longitude": 126.752323,
+          "latitude": 37.69732,
+          "altitude": 22.220001,
+          "accuracy": 18.188233
+        },
+        {
+          "event_time": "2023-01-18T10:52:32.0000000",
+          "longitude": 126.752344,
+          "latitude": 37.697318,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:31.0000000",
+          "longitude": 126.752366,
+          "latitude": 37.69731,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:30.0000000",
+          "longitude": 126.752376,
+          "latitude": 37.697307,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:29.0000000",
+          "longitude": 126.75239,
+          "latitude": 37.697306,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:28.0000000",
+          "longitude": 126.75239,
+          "latitude": 37.697299,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:27.0000000",
+          "longitude": 126.75239,
+          "latitude": 37.697295,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:26.0000000",
+          "longitude": 126.752379,
+          "latitude": 37.697302,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:25.0000000",
+          "longitude": 126.752383,
+          "latitude": 37.697305,
+          "altitude": 22.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:24.0000000",
+          "longitude": 126.752387,
+          "latitude": 37.697318,
+          "altitude": 22.220002,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:23.0000000",
+          "longitude": 126.752405,
+          "latitude": 37.697337,
+          "altitude": 22.220006,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:22.0000000",
+          "longitude": 126.752422,
+          "latitude": 37.697347,
+          "altitude": 22.220049,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:21.0000000",
+          "longitude": 126.752447,
+          "latitude": 37.697359,
+          "altitude": 22.220474,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:20.0000000",
+          "longitude": 126.752473,
+          "latitude": 37.697372,
+          "altitude": 22.224729,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:19.0000000",
+          "longitude": 126.752498,
+          "latitude": 37.69738,
+          "altitude": 22.267281,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:18.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697388,
+          "altitude": 22.291353,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:17.0000000",
+          "longitude": 126.752531,
+          "latitude": 37.697396,
+          "altitude": 22.308807,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:16.0000000",
+          "longitude": 126.752538,
+          "latitude": 37.697402,
+          "altitude": 22.313614,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:15.0000000",
+          "longitude": 126.752538,
+          "latitude": 37.697409,
+          "altitude": 22.334318,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:14.0000000",
+          "longitude": 126.752543,
+          "latitude": 37.697427,
+          "altitude": 22.336739,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:13.0000000",
+          "longitude": 126.752543,
+          "latitude": 37.697431,
+          "altitude": 22.341545,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:12.0000000",
+          "longitude": 126.752543,
+          "latitude": 37.697436,
+          "altitude": 22.353249,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:11.0000000",
+          "longitude": 126.752547,
+          "latitude": 37.697442,
+          "altitude": 22.354861,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:10.0000000",
+          "longitude": 126.752545,
+          "latitude": 37.697449,
+          "altitude": 22.3667,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:09.0000000",
+          "longitude": 126.752549,
+          "latitude": 37.697451,
+          "altitude": 22.37436,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:08.0000000",
+          "longitude": 126.752551,
+          "latitude": 37.697455,
+          "altitude": 22.384668,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:07.0000000",
+          "longitude": 126.752553,
+          "latitude": 37.697458,
+          "altitude": 22.407139,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:06.0000000",
+          "longitude": 126.75256,
+          "latitude": 37.697459,
+          "altitude": 22.428362,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:05.0000000",
+          "longitude": 126.752568,
+          "latitude": 37.697456,
+          "altitude": 22.452068,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:04.0000000",
+          "longitude": 126.752576,
+          "latitude": 37.697456,
+          "altitude": 22.476752,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:03.0000000",
+          "longitude": 126.752582,
+          "latitude": 37.697459,
+          "altitude": 22.516365,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:02.0000000",
+          "longitude": 126.752596,
+          "latitude": 37.697459,
+          "altitude": 22.53442,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:01.0000000",
+          "longitude": 126.752602,
+          "latitude": 37.697459,
+          "altitude": 22.558009,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:52:00.0000000",
+          "longitude": 126.752611,
+          "latitude": 37.697454,
+          "altitude": 22.592397,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:59.0000000",
+          "longitude": 126.752624,
+          "latitude": 37.697452,
+          "altitude": 22.622586,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:58.0000000",
+          "longitude": 126.752636,
+          "latitude": 37.697449,
+          "altitude": 22.646243,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:57.0000000",
+          "longitude": 126.752649,
+          "latitude": 37.697442,
+          "altitude": 22.652684,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:56.0000000",
+          "longitude": 126.752651,
+          "latitude": 37.69744,
+          "altitude": 22.709238,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:55.0000000",
+          "longitude": 126.752669,
+          "latitude": 37.69744,
+          "altitude": 22.812796,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:54.0000000",
+          "longitude": 126.752692,
+          "latitude": 37.697454,
+          "altitude": 22.972325,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:53.0000000",
+          "longitude": 126.752722,
+          "latitude": 37.697481,
+          "altitude": 23.020909,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:52.0000000",
+          "longitude": 126.752731,
+          "latitude": 37.697489,
+          "altitude": 23.052675,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:51.0000000",
+          "longitude": 126.752733,
+          "latitude": 37.697495,
+          "altitude": 23.127194,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:50.0000000",
+          "longitude": 126.752754,
+          "latitude": 37.697497,
+          "altitude": 23.133752,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:49.0000000",
+          "longitude": 126.752755,
+          "latitude": 37.697498,
+          "altitude": 23.15831,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:48.0000000",
+          "longitude": 126.75276,
+          "latitude": 37.697503,
+          "altitude": 23.157178,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:47.0000000",
+          "longitude": 126.75276,
+          "latitude": 37.697509,
+          "altitude": 23.15938,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:46.0000000",
+          "longitude": 126.75276,
+          "latitude": 37.697523,
+          "altitude": 23.145868,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:45.0000000",
+          "longitude": 126.752755,
+          "latitude": 37.697535,
+          "altitude": 23.111173,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:44.0000000",
+          "longitude": 126.752742,
+          "latitude": 37.697548,
+          "altitude": 23.095423,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:43.0000000",
+          "longitude": 126.752733,
+          "latitude": 37.697564,
+          "altitude": 23.084835,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:42.0000000",
+          "longitude": 126.752724,
+          "latitude": 37.697585,
+          "altitude": 23.083497,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:41.0000000",
+          "longitude": 126.752718,
+          "latitude": 37.697599,
+          "altitude": 23.100366,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:40.0000000",
+          "longitude": 126.752721,
+          "latitude": 37.697611,
+          "altitude": 23.136672,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:39.0000000",
+          "longitude": 126.752732,
+          "latitude": 37.697633,
+          "altitude": 23.151356,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:38.0000000",
+          "longitude": 126.752737,
+          "latitude": 37.697648,
+          "altitude": 23.156161,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:37.0000000",
+          "longitude": 126.752734,
+          "latitude": 37.697664,
+          "altitude": 23.169575,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:36.0000000",
+          "longitude": 126.752734,
+          "latitude": 37.697686,
+          "altitude": 23.185061,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:35.0000000",
+          "longitude": 126.752737,
+          "latitude": 37.697708,
+          "altitude": 23.198298,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:34.0000000",
+          "longitude": 126.752742,
+          "latitude": 37.697728,
+          "altitude": 23.20845,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:33.0000000",
+          "longitude": 126.752746,
+          "latitude": 37.697748,
+          "altitude": 23.211704,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:32.0000000",
+          "longitude": 126.75274,
+          "latitude": 37.69776,
+          "altitude": 23.218154,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:31.0000000",
+          "longitude": 126.752744,
+          "latitude": 37.697773,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:30.0000000",
+          "longitude": 126.752752,
+          "latitude": 37.697788,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:29.0000000",
+          "longitude": 126.752755,
+          "latitude": 37.697804,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:28.0000000",
+          "longitude": 126.752754,
+          "latitude": 37.69781,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:27.0000000",
+          "longitude": 126.752753,
+          "latitude": 37.697824,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:26.0000000",
+          "longitude": 126.752743,
+          "latitude": 37.697832,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:25.0000000",
+          "longitude": 126.752737,
+          "latitude": 37.697846,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:24.0000000",
+          "longitude": 126.752731,
+          "latitude": 37.69785,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:23.0000000",
+          "longitude": 126.752729,
+          "latitude": 37.69785,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:22.0000000",
+          "longitude": 126.752722,
+          "latitude": 37.697852,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:21.0000000",
+          "longitude": 126.752714,
+          "latitude": 37.697858,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:20.0000000",
+          "longitude": 126.752709,
+          "latitude": 37.697866,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:19.0000000",
+          "longitude": 126.752705,
+          "latitude": 37.697876,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:18.0000000",
+          "longitude": 126.752696,
+          "latitude": 37.697894,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:17.0000000",
+          "longitude": 126.752704,
+          "latitude": 37.697912,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:16.0000000",
+          "longitude": 126.752697,
+          "latitude": 37.697917,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:15.0000000",
+          "longitude": 126.752688,
+          "latitude": 37.697926,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:14.0000000",
+          "longitude": 126.752681,
+          "latitude": 37.697935,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:13.0000000",
+          "longitude": 126.752674,
+          "latitude": 37.697944,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:12.0000000",
+          "longitude": 126.752672,
+          "latitude": 37.697953,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:11.0000000",
+          "longitude": 126.752666,
+          "latitude": 37.697967,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:10.0000000",
+          "longitude": 126.752662,
+          "latitude": 37.697977,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:09.0000000",
+          "longitude": 126.75266,
+          "latitude": 37.697976,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:08.0000000",
+          "longitude": 126.752658,
+          "latitude": 37.697978,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:07.0000000",
+          "longitude": 126.752655,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:06.0000000",
+          "longitude": 126.752652,
+          "latitude": 37.697977,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:05.0000000",
+          "longitude": 126.75265,
+          "latitude": 37.69798,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:04.0000000",
+          "longitude": 126.752649,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:03.0000000",
+          "longitude": 126.75265,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:02.0000000",
+          "longitude": 126.75265,
+          "latitude": 37.697985,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:01.0000000",
+          "longitude": 126.752651,
+          "latitude": 37.697986,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:51:00.0000000",
+          "longitude": 126.75265,
+          "latitude": 37.697982,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:59.0000000",
+          "longitude": 126.75265,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:58.0000000",
+          "longitude": 126.752651,
+          "latitude": 37.697976,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:57.0000000",
+          "longitude": 126.75264,
+          "latitude": 37.697972,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:56.0000000",
+          "longitude": 126.752628,
+          "latitude": 37.697969,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:55.0000000",
+          "longitude": 126.752623,
+          "latitude": 37.697965,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:54.0000000",
+          "longitude": 126.75262,
+          "latitude": 37.69796,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:53.0000000",
+          "longitude": 126.752621,
+          "latitude": 37.69796,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:52.0000000",
+          "longitude": 126.752615,
+          "latitude": 37.697959,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:51.0000000",
+          "longitude": 126.752609,
+          "latitude": 37.697956,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:50.0000000",
+          "longitude": 126.752602,
+          "latitude": 37.697949,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:49.0000000",
+          "longitude": 126.752595,
+          "latitude": 37.697941,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:48.0000000",
+          "longitude": 126.75259,
+          "latitude": 37.697933,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:47.0000000",
+          "longitude": 126.752586,
+          "latitude": 37.697927,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:46.0000000",
+          "longitude": 126.752585,
+          "latitude": 37.697923,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:45.0000000",
+          "longitude": 126.752586,
+          "latitude": 37.69792,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:44.0000000",
+          "longitude": 126.752583,
+          "latitude": 37.697914,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:43.0000000",
+          "longitude": 126.752576,
+          "latitude": 37.697906,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:42.0000000",
+          "longitude": 126.75258,
+          "latitude": 37.697899,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:41.0000000",
+          "longitude": 126.752584,
+          "latitude": 37.697896,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:40.0000000",
+          "longitude": 126.752586,
+          "latitude": 37.697893,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:39.0000000",
+          "longitude": 126.75259,
+          "latitude": 37.697888,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:38.0000000",
+          "longitude": 126.75259,
+          "latitude": 37.697884,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:37.0000000",
+          "longitude": 126.752604,
+          "latitude": 37.697881,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:36.0000000",
+          "longitude": 126.752608,
+          "latitude": 37.697872,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:35.0000000",
+          "longitude": 126.75261,
+          "latitude": 37.69786,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:34.0000000",
+          "longitude": 126.752594,
+          "latitude": 37.697862,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:33.0000000",
+          "longitude": 126.752589,
+          "latitude": 37.69786,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:32.0000000",
+          "longitude": 126.752586,
+          "latitude": 37.697859,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:31.0000000",
+          "longitude": 126.752578,
+          "latitude": 37.697861,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:30.0000000",
+          "longitude": 126.752565,
+          "latitude": 37.697864,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:29.0000000",
+          "longitude": 126.752552,
+          "latitude": 37.697867,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:28.0000000",
+          "longitude": 126.75254,
+          "latitude": 37.697871,
+          "altitude": 23.219998,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:27.0000000",
+          "longitude": 126.752533,
+          "latitude": 37.697876,
+          "altitude": 23.219973,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:26.0000000",
+          "longitude": 126.752524,
+          "latitude": 37.697881,
+          "altitude": 23.219719,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:25.0000000",
+          "longitude": 126.75251,
+          "latitude": 37.697884,
+          "altitude": 23.217176,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:24.0000000",
+          "longitude": 126.752507,
+          "latitude": 37.697884,
+          "altitude": 23.191746,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:23.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697889,
+          "altitude": 23.190578,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:22.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697887,
+          "altitude": 23.186142,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:21.0000000",
+          "longitude": 126.752485,
+          "latitude": 37.697886,
+          "altitude": 23.184568,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:20.0000000",
+          "longitude": 126.752484,
+          "latitude": 37.697886,
+          "altitude": 23.182829,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:19.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.697886,
+          "altitude": 23.182093,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:18.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.697886,
+          "altitude": 23.18373,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:17.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.69789,
+          "altitude": 23.182034,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:16.0000000",
+          "longitude": 126.752482,
+          "latitude": 37.697895,
+          "altitude": 23.18231,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:15.0000000",
+          "longitude": 126.752482,
+          "latitude": 37.697899,
+          "altitude": 23.180506,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:14.0000000",
+          "longitude": 126.75248,
+          "latitude": 37.6979,
+          "altitude": 23.179533,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:13.0000000",
+          "longitude": 126.75248,
+          "latitude": 37.697901,
+          "altitude": 23.173748,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:12.0000000",
+          "longitude": 126.752477,
+          "latitude": 37.697902,
+          "altitude": 23.167289,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:11.0000000",
+          "longitude": 126.752474,
+          "latitude": 37.697904,
+          "altitude": 23.150764,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:10.0000000",
+          "longitude": 126.752466,
+          "latitude": 37.697899,
+          "altitude": 23.139121,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:09.0000000",
+          "longitude": 126.75246,
+          "latitude": 37.697897,
+          "altitude": 23.153913,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:08.0000000",
+          "longitude": 126.752467,
+          "latitude": 37.6979,
+          "altitude": 23.168001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:07.0000000",
+          "longitude": 126.752472,
+          "latitude": 37.697908,
+          "altitude": 23.178105,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:06.0000000",
+          "longitude": 126.752477,
+          "latitude": 37.697914,
+          "altitude": 23.181238,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:05.0000000",
+          "longitude": 126.752479,
+          "latitude": 37.697915,
+          "altitude": 23.182459,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:04.0000000",
+          "longitude": 126.752479,
+          "latitude": 37.697915,
+          "altitude": 23.183919,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:03.0000000",
+          "longitude": 126.75248,
+          "latitude": 37.697915,
+          "altitude": 23.185405,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:02.0000000",
+          "longitude": 126.752481,
+          "latitude": 37.697915,
+          "altitude": 23.187529,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:01.0000000",
+          "longitude": 126.752482,
+          "latitude": 37.697915,
+          "altitude": 23.188447,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:50:00.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.697915,
+          "altitude": 23.18887,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:59.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.697914,
+          "altitude": 23.189326,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:58.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.697913,
+          "altitude": 23.189243,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:57.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.697913,
+          "altitude": 23.190476,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:56.0000000",
+          "longitude": 126.752484,
+          "latitude": 37.697913,
+          "altitude": 23.190925,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:55.0000000",
+          "longitude": 126.752484,
+          "latitude": 37.697913,
+          "altitude": 23.192296,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:54.0000000",
+          "longitude": 126.752485,
+          "latitude": 37.697913,
+          "altitude": 23.194911,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:53.0000000",
+          "longitude": 126.752486,
+          "latitude": 37.697913,
+          "altitude": 23.196481,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:52.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697914,
+          "altitude": 23.199001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:51.0000000",
+          "longitude": 126.752489,
+          "latitude": 37.697913,
+          "altitude": 23.199309,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:50.0000000",
+          "longitude": 126.752488,
+          "latitude": 37.697917,
+          "altitude": 23.201429,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:49.0000000",
+          "longitude": 126.752489,
+          "latitude": 37.697924,
+          "altitude": 23.205325,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:48.0000000",
+          "longitude": 126.752491,
+          "latitude": 37.697931,
+          "altitude": 23.209163,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:47.0000000",
+          "longitude": 126.752493,
+          "latitude": 37.697939,
+          "altitude": 23.212077,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:46.0000000",
+          "longitude": 126.752494,
+          "latitude": 37.69795,
+          "altitude": 23.215397,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:45.0000000",
+          "longitude": 126.752496,
+          "latitude": 37.69796,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:44.0000000",
+          "longitude": 126.7525,
+          "latitude": 37.697966,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:43.0000000",
+          "longitude": 126.752506,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:42.0000000",
+          "longitude": 126.752515,
+          "latitude": 37.697985,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:41.0000000",
+          "longitude": 126.752516,
+          "latitude": 37.697985,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:40.0000000",
+          "longitude": 126.752517,
+          "latitude": 37.697985,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:39.0000000",
+          "longitude": 126.752518,
+          "latitude": 37.697985,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:38.0000000",
+          "longitude": 126.752518,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:37.0000000",
+          "longitude": 126.752518,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:36.0000000",
+          "longitude": 126.752519,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:35.0000000",
+          "longitude": 126.75252,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:34.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697982,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:33.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697982,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:32.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697982,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:31.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697982,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:30.0000000",
+          "longitude": 126.752522,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:29.0000000",
+          "longitude": 126.752523,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:28.0000000",
+          "longitude": 126.752523,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:27.0000000",
+          "longitude": 126.752523,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:26.0000000",
+          "longitude": 126.752524,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:25.0000000",
+          "longitude": 126.752525,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:24.0000000",
+          "longitude": 126.752525,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:23.0000000",
+          "longitude": 126.752525,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:22.0000000",
+          "longitude": 126.752525,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:21.0000000",
+          "longitude": 126.752525,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:20.0000000",
+          "longitude": 126.752524,
+          "latitude": 37.697984,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:19.0000000",
+          "longitude": 126.752524,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:18.0000000",
+          "longitude": 126.752524,
+          "latitude": 37.697983,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:17.0000000",
+          "longitude": 126.752522,
+          "latitude": 37.697982,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:16.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697981,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:15.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697981,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:14.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.697981,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:13.0000000",
+          "longitude": 126.752521,
+          "latitude": 37.69798,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:12.0000000",
+          "longitude": 126.75252,
+          "latitude": 37.69798,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:11.0000000",
+          "longitude": 126.752519,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:10.0000000",
+          "longitude": 126.752518,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:09.0000000",
+          "longitude": 126.752517,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:08.0000000",
+          "longitude": 126.752516,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:07.0000000",
+          "longitude": 126.752516,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:06.0000000",
+          "longitude": 126.752515,
+          "latitude": 37.697979,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:05.0000000",
+          "longitude": 126.752514,
+          "latitude": 37.697978,
+          "altitude": 23.220001,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:04.0000000",
+          "longitude": 126.752512,
+          "latitude": 37.697977,
+          "altitude": 23.219997,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:03.0000000",
+          "longitude": 126.752511,
+          "latitude": 37.697977,
+          "altitude": 23.21996,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:02.0000000",
+          "longitude": 126.75251,
+          "latitude": 37.697976,
+          "altitude": 23.21959,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:01.0000000",
+          "longitude": 126.752508,
+          "latitude": 37.697976,
+          "altitude": 23.215886,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:49:00.0000000",
+          "longitude": 126.752497,
+          "latitude": 37.69797,
+          "altitude": 23.207551,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:59.0000000",
+          "longitude": 126.75249,
+          "latitude": 37.697964,
+          "altitude": 23.203616,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:58.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697956,
+          "altitude": 23.20333,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:57.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697956,
+          "altitude": 23.202946,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:56.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697954,
+          "altitude": 23.202127,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:55.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697954,
+          "altitude": 23.202127,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:54.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697954,
+          "altitude": 23.202127,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:53.0000000",
+          "longitude": 126.752487,
+          "latitude": 37.697954,
+          "altitude": 23.202127,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:52.0000000",
+          "longitude": 126.752486,
+          "latitude": 37.697955,
+          "altitude": 23.201456,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:51.0000000",
+          "longitude": 126.752486,
+          "latitude": 37.697955,
+          "altitude": 23.200652,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:50.0000000",
+          "longitude": 126.752485,
+          "latitude": 37.697955,
+          "altitude": 23.196829,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:49.0000000",
+          "longitude": 126.752483,
+          "latitude": 37.697956,
+          "altitude": 23.183186,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:48.0000000",
+          "longitude": 126.752471,
+          "latitude": 37.697959,
+          "altitude": 23.172545,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:47.0000000",
+          "longitude": 126.752463,
+          "latitude": 37.69796,
+          "altitude": 23.160623,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:46.0000000",
+          "longitude": 126.752453,
+          "latitude": 37.697961,
+          "altitude": 23.150095,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:45.0000000",
+          "longitude": 126.752442,
+          "latitude": 37.697964,
+          "altitude": 23.136104,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:44.0000000",
+          "longitude": 126.75243,
+          "latitude": 37.697964,
+          "altitude": 23.124392,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:43.0000000",
+          "longitude": 126.752419,
+          "latitude": 37.697965,
+          "altitude": 23.123451,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:42.0000000",
+          "longitude": 126.752418,
+          "latitude": 37.697964,
+          "altitude": 23.122282,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:41.0000000",
+          "longitude": 126.752417,
+          "latitude": 37.697964,
+          "altitude": 23.122468,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:40.0000000",
+          "longitude": 126.752417,
+          "latitude": 37.697965,
+          "altitude": 23.120516,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:39.0000000",
+          "longitude": 126.752415,
+          "latitude": 37.697965,
+          "altitude": 23.117823,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:38.0000000",
+          "longitude": 126.752414,
+          "latitude": 37.697964,
+          "altitude": 23.117327,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:37.0000000",
+          "longitude": 126.752414,
+          "latitude": 37.697963,
+          "altitude": 23.117347,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:36.0000000",
+          "longitude": 126.752414,
+          "latitude": 37.697964,
+          "altitude": 23.116618,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:35.0000000",
+          "longitude": 126.752413,
+          "latitude": 37.697964,
+          "altitude": 23.116506,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:34.0000000",
+          "longitude": 126.752412,
+          "latitude": 37.697965,
+          "altitude": 23.115586,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:33.0000000",
+          "longitude": 126.752411,
+          "latitude": 37.697965,
+          "altitude": 23.114906,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:32.0000000",
+          "longitude": 126.752411,
+          "latitude": 37.697965,
+          "altitude": 23.112706,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:31.0000000",
+          "longitude": 126.752408,
+          "latitude": 37.697966,
+          "altitude": 23.106636,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:30.0000000",
+          "longitude": 126.752398,
+          "latitude": 37.697971,
+          "altitude": 23.098637,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:29.0000000",
+          "longitude": 126.752388,
+          "latitude": 37.697972,
+          "altitude": 23.091638,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:28.0000000",
+          "longitude": 126.752385,
+          "latitude": 37.69797,
+          "altitude": 23.082618,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:27.0000000",
+          "longitude": 126.75238,
+          "latitude": 37.697968,
+          "altitude": 23.071043,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:26.0000000",
+          "longitude": 126.752361,
+          "latitude": 37.697973,
+          "altitude": 23.069755,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:25.0000000",
+          "longitude": 126.752349,
+          "latitude": 37.697979,
+          "altitude": 23.066387,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:24.0000000",
+          "longitude": 126.752338,
+          "latitude": 37.697982,
+          "altitude": 23.063639,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:23.0000000",
+          "longitude": 126.752331,
+          "latitude": 37.697985,
+          "altitude": 23.040759,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:22.0000000",
+          "longitude": 126.752319,
+          "latitude": 37.697979,
+          "altitude": 23.044356,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:21.0000000",
+          "longitude": 126.752309,
+          "latitude": 37.697985,
+          "altitude": 23.044449,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:20.0000000",
+          "longitude": 126.752302,
+          "latitude": 37.697987,
+          "altitude": 23.048327,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:19.0000000",
+          "longitude": 126.75229,
+          "latitude": 37.697992,
+          "altitude": 23.055184,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:18.0000000",
+          "longitude": 126.752281,
+          "latitude": 37.697998,
+          "altitude": 23.051308,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:17.0000000",
+          "longitude": 126.752274,
+          "latitude": 37.697998,
+          "altitude": 23.055881,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:16.0000000",
+          "longitude": 126.752272,
+          "latitude": 37.698,
+          "altitude": 23.053881,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:15.0000000",
+          "longitude": 126.752272,
+          "latitude": 37.697999,
+          "altitude": 23.051392,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:14.0000000",
+          "longitude": 126.752275,
+          "latitude": 37.697998,
+          "altitude": 23.049099,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:13.0000000",
+          "longitude": 126.752271,
+          "latitude": 37.697999,
+          "altitude": 23.033721,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:12.0000000",
+          "longitude": 126.752263,
+          "latitude": 37.697996,
+          "altitude": 23.015925,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:11.0000000",
+          "longitude": 126.752246,
+          "latitude": 37.697993,
+          "altitude": 23.02539,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:10.0000000",
+          "longitude": 126.752235,
+          "latitude": 37.697999,
+          "altitude": 23.011581,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:09.0000000",
+          "longitude": 126.752218,
+          "latitude": 37.698001,
+          "altitude": 23.012954,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:08.0000000",
+          "longitude": 126.752209,
+          "latitude": 37.698009,
+          "altitude": 23.016071,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:07.0000000",
+          "longitude": 126.752201,
+          "latitude": 37.698018,
+          "altitude": 22.993129,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:06.0000000",
+          "longitude": 126.752184,
+          "latitude": 37.698028,
+          "altitude": 22.958211,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:05.0000000",
+          "longitude": 126.752172,
+          "latitude": 37.698028,
+          "altitude": 22.953688,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:04.0000000",
+          "longitude": 126.752168,
+          "latitude": 37.698032,
+          "altitude": 22.927169,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:03.0000000",
+          "longitude": 126.752158,
+          "latitude": 37.698035,
+          "altitude": 22.890116,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:02.0000000",
+          "longitude": 126.752148,
+          "latitude": 37.698034,
+          "altitude": 22.853231,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:01.0000000",
+          "longitude": 126.75214,
+          "latitude": 37.698029,
+          "altitude": 22.827834,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:48:00.0000000",
+          "longitude": 126.752132,
+          "latitude": 37.698029,
+          "altitude": 22.802181,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:59.0000000",
+          "longitude": 126.752127,
+          "latitude": 37.698025,
+          "altitude": 22.790638,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:58.0000000",
+          "longitude": 126.752125,
+          "latitude": 37.698021,
+          "altitude": 22.780618,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:57.0000000",
+          "longitude": 126.752125,
+          "latitude": 37.698018,
+          "altitude": 22.779013,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:56.0000000",
+          "longitude": 126.752123,
+          "latitude": 37.698019,
+          "altitude": 22.778139,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:55.0000000",
+          "longitude": 126.752116,
+          "latitude": 37.698031,
+          "altitude": 22.747808,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:54.0000000",
+          "longitude": 126.752101,
+          "latitude": 37.69804,
+          "altitude": 22.726427,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:53.0000000",
+          "longitude": 126.752095,
+          "latitude": 37.698039,
+          "altitude": 22.681266,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:52.0000000",
+          "longitude": 126.75209,
+          "latitude": 37.698023,
+          "altitude": 22.65228,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:51.0000000",
+          "longitude": 126.752094,
+          "latitude": 37.698,
+          "altitude": 22.673305,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:50.0000000",
+          "longitude": 126.752109,
+          "latitude": 37.69799,
+          "altitude": 22.668563,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:49.0000000",
+          "longitude": 126.752117,
+          "latitude": 37.697976,
+          "altitude": 22.70649,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:48.0000000",
+          "longitude": 126.75213,
+          "latitude": 37.69798,
+          "altitude": 22.716686,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:47.0000000",
+          "longitude": 126.752127,
+          "latitude": 37.697986,
+          "altitude": 22.756511,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:46.0000000",
+          "longitude": 126.752142,
+          "latitude": 37.697987,
+          "altitude": 22.770922,
+          "accuracy": 8.001208
+        },
+        {
+          "event_time": "2023-01-18T10:47:45.0000000",
+          "longitude": 126.752147,
+          "latitude": 37.697989,
+          "altitude": 22.738015,
+          "accuracy": 8.001208
+        },
+        {
+          "event_time": "2023-01-18T10:47:44.0000000",
+          "longitude": 126.75213,
+          "latitude": 37.697993,
+          "altitude": 22.748046,
+          "accuracy": 8.001208
+        },
+        {
+          "event_time": "2023-01-18T10:47:43.0000000",
+          "longitude": 126.752133,
+          "latitude": 37.697995,
+          "altitude": 22.729498,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:42.0000000",
+          "longitude": 126.752116,
+          "latitude": 37.698009,
+          "altitude": 22.689108,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:41.0000000",
+          "longitude": 126.752103,
+          "latitude": 37.698005,
+          "altitude": 22.6872,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:40.0000000",
+          "longitude": 126.752107,
+          "latitude": 37.697998,
+          "altitude": 22.706372,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:39.0000000",
+          "longitude": 126.752109,
+          "latitude": 37.698005,
+          "altitude": 22.720904,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:38.0000000",
+          "longitude": 126.752112,
+          "latitude": 37.698008,
+          "altitude": 22.729231,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:37.0000000",
+          "longitude": 126.75211,
+          "latitude": 37.69801,
+          "altitude": 22.845222,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:36.0000000",
+          "longitude": 126.752134,
+          "latitude": 37.698029,
+          "altitude": 22.896615,
+          "accuracy": 12.001812
+        },
+        {
+          "event_time": "2023-01-18T10:47:35.0000000",
+          "longitude": 126.752145,
+          "latitude": 37.698035,
+          "altitude": 22.971228,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:34.0000000",
+          "longitude": 126.75217,
+          "latitude": 37.698034,
+          "altitude": 22.976533,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:33.0000000",
+          "longitude": 126.752176,
+          "latitude": 37.698035,
+          "altitude": 22.8515,
+          "accuracy": 16.002417
+        },
+        {
+          "event_time": "2023-01-18T10:47:31.9990000",
+          "longitude": 126.752164,
+          "latitude": 37.698003,
+          "altitude": 22.770973,
+          "accuracy": 24.003625
+        },
+        {
+          "event_time": "2023-01-18T10:47:30.9990000",
+          "longitude": 126.752156,
+          "latitude": 37.697981,
+          "altitude": 22.697157,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:47:29.9040000",
+          "longitude": 126.752176,
+          "latitude": 37.697947,
+          "altitude": 22.414042,
+          "accuracy": 32.004833
+        },
+        {
+          "event_time": "2023-01-18T10:47:28.9040000",
+          "longitude": 126.752142,
+          "latitude": 37.697871,
+          "altitude": 22.017522,
+          "accuracy": 48.00725
+        },
+        {
+          "event_time": "2023-01-18T10:47:27.9040000",
+          "longitude": 126.752068,
+          "latitude": 37.697941,
+          "altitude": 17.841456,
+          "accuracy": 48
+        },
+        {
+          "event_time": "2023-01-18T10:47:26.9040000",
+          "longitude": 126.751946,
+          "latitude": 37.697941,
+          "altitude": 17.839001,
+          "accuracy": 64
+        },
+        {
+          "event_time": "2023-01-18T10:47:25.9040000",
+          "longitude": 126.751893,
+          "latitude": 37.697953,
+          "altitude": 21.781901,
+          "accuracy": 48
+        },
+        {
+          "event_time": "2023-01-18T10:47:24.9040000",
+          "longitude": 126.751859,
+          "latitude": 37.698001,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:23.9040000",
+          "longitude": 126.751857,
+          "latitude": 37.698,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:22.9040000",
+          "longitude": 126.751855,
+          "latitude": 37.698001,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:21.9040000",
+          "longitude": 126.751853,
+          "latitude": 37.698008,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:20.9040000",
+          "longitude": 126.751851,
+          "latitude": 37.698007,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:19.9040000",
+          "longitude": 126.751848,
+          "latitude": 37.69801,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:18.9040000",
+          "longitude": 126.751847,
+          "latitude": 37.69801,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:17.9040000",
+          "longitude": 126.751846,
+          "latitude": 37.698009,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:16.9040000",
+          "longitude": 126.751844,
+          "latitude": 37.69801,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:15.9040000",
+          "longitude": 126.751844,
+          "latitude": 37.69801,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:14.9040000",
+          "longitude": 126.751843,
+          "latitude": 37.698009,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:13.9040000",
+          "longitude": 126.751837,
+          "latitude": 37.698008,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:12.9040000",
+          "longitude": 126.751826,
+          "latitude": 37.698002,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:11.9030000",
+          "longitude": 126.751818,
+          "latitude": 37.697993,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:10.9030000",
+          "longitude": 126.751812,
+          "latitude": 37.697987,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:09.9030000",
+          "longitude": 126.751807,
+          "latitude": 37.697984,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:08.9030000",
+          "longitude": 126.751805,
+          "latitude": 37.697983,
+          "altitude": 17.839001,
+          "accuracy": 200
+        },
+        {
+          "event_time": "2023-01-18T10:47:07.9030000",
+          "longitude": 126.751805,
+          "latitude": 37.697982,
+          "altitude": 17.839001,
+          "accuracy": 39.852897
+        },
+        {
+          "event_time": "2023-01-18T10:47:06.9030000",
+          "longitude": 126.75185,
+          "latitude": 37.698007,
+          "altitude": 25.712552,
+          "accuracy": 39.852897
+        },
+        {
+          "event_time": "2023-01-18T10:47:06.6480000",
+          "longitude": 126.751785,
+          "latitude": 37.697915,
+          "altitude": 18.37558,
+          "accuracy": 41
+        },
+        {
+          "event_time": "2023-01-18T10:47:01.3700000",
+          "longitude": 126.751802,
+          "latitude": 37.697859,
+          "altitude": 22.230001,
+          "accuracy": 48.00725
+        }
+]

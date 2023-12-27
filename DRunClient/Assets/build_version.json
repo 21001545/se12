@@ -1,0 +1,10 @@
+{
+    "ios" : {
+        "marketing_version" : "0.9.5",
+        "project_version" : 1
+    },
+    "android" : {
+        "version": "0.9.5",
+        "version_code" :  1
+    }
+}
